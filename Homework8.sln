@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework8", "Homework8\Homework8.csproj", "{CF0208A5-52C9-4312-8B1B-BAEA981FB78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapsyrma2", "Tapsyrma2\Tapsyrma2.csproj", "{619A0484-23F9-4C32-A03D-EA8CB9F54381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0208A5-52C9-4312-8B1B-BAEA981FB78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0208A5-52C9-4312-8B1B-BAEA981FB78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0208A5-52C9-4312-8B1B-BAEA981FB78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0208A5-52C9-4312-8B1B-BAEA981FB78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619A0484-23F9-4C32-A03D-EA8CB9F54381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619A0484-23F9-4C32-A03D-EA8CB9F54381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619A0484-23F9-4C32-A03D-EA8CB9F54381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619A0484-23F9-4C32-A03D-EA8CB9F54381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48BB90D-3A6F-43A6-9C53-D48D969145F7}
+	EndGlobalSection
+EndGlobal
